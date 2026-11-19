@@ -1,0 +1,18 @@
+{
+  "name": "Evil",
+  "label": "Evil",
+  "version": "1.0.0",
+  "2D": false,
+  "3D": true,
+  "author": "",
+  "description": "",
+  "hasConfig": false,
+  "hasStyle": false,
+  "hasLocale": true,
+  "hasUIFile": false,
+  "hasSettingPage": false,
+  "hasSettingUIFile": false,
+  "hasSettingLocale": false,
+  "hasSettingStyle": false,
+  "properties": {}
+}
